@@ -24,6 +24,6 @@ This project originated from the ENSF612 course during my Master’s degree. Ini
 scalable Amazon reviews sentiment analysis system with three classes: negative, positive, and neutral, leveraging Spark
 and traditional machine learning techniques.
 
-Since then, I have expanded the scope of the project to enhance its capabilities. The updated goal is to achieve a
+I have expanded the scope of the project to enhance its capabilities. The updated goal is to achieve a
 five-class sentiment classification, representing a 1 to 5-star rating scale. This evolution involves the integration of
 state-of-the-art transformer-based models, such as BERT, to improve accuracy and performance.

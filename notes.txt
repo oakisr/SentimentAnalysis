@@ -1,0 +1,10 @@
+torch                            2.3.1+cu121
+transformers                     4.42.4
+accelerate                       0.32.1
+
+!pip install transformers==4.42.4
+!pip install accelerate==0.32.1
+!pip install torch==2.3.1+cu121
+
+
+docker run -it --name test -p 8888:8888 pytorch_cuda:sparknlp

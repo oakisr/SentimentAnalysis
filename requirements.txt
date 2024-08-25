@@ -1,0 +1,11 @@
+# Denpendencies
+pyspark==3.3.3
+spark-nlp==5.2.0
+transformers 
+accelerate 
+contractions
+
+# Pre-installed dependencies on base image
+# torch 2.4.0-cuda11.8
+
+
